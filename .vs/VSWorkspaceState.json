@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\scraper"
   ],
+  "SelectedNode": "\\scraper\\worker.py",
   "PreviewInSolutionExplorer": false
 }
